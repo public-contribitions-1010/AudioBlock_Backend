@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/structured-logging-replace-console",
+    "main",
+    "origin",
+    "working-branch"
+  ],
+  "parent": {
+    "feature/structured-logging-replace-console": "main",
+    "main": null,
+    "origin": "main",
+    "working-branch": "main"
+  },
+  "order": [
+    "main",
+    "feature/structured-logging-replace-console",
+    "origin",
+    "working-branch"
+  ]
+}
